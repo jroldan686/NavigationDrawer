@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NavigationDrawer</string>
+    <string name="txv_user">Salva Paquete</string>
+    <string name="txv_email">salva@lloron.mar</string>
+    <string name="action_home">Inicio</string>
+    <string name="action_dependency">Dependencia</string>
+    <string name="action_sector">Sectores</string>
+    <string name="navigation_subheader">Otras opciones</string>
+    <string name="action_help">Ayuda</string>
+    <string name="action_config">Configuración</string>
+</resources>
