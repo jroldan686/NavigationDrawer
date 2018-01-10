@@ -13,6 +13,7 @@
         android:elevation="@dimen/elevation_toolbar"
         android:minHeight="?attr/actionBarSize"
         android:theme="?attr/actionBarTheme"
+        android:background="@color/colorPrimary"
         app:titleTextColor="@android:color/white">
 
     </android.support.v7.widget.Toolbar>
